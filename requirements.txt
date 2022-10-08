@@ -1,0 +1,4 @@
+Arpeggio==2.0.0
+click==7.1.2
+future==0.18.2
+textX==3.0.0
